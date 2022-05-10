@@ -1,18 +1,16 @@
-/* styles go here */
-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
 
-label {
+.labelBlock {
   display: block;
   margin-bottom: 10px;
 }
 
-.radioButton {
-  display: inline-block;
-
+.wrapper {
+  padding-bottom: 10px;
 }
 
-fieldset > :last-child {
+.labelBlockBottom {
   margin-bottom: 0;
 }
